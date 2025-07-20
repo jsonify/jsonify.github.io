@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ClickIt Beta Updates</title>
+        <link>https://github.com/jsonify/clickit</link>
+        <description>Beta software updates for ClickIt</description>
+        <language>en</language>
+        <lastBuildDate>Sun, 20 Jul 2025 19:40:00 GMT</lastBuildDate>
+        
+        <!-- Future beta releases will be automatically added here -->
+        
+    </channel>
+</rss>

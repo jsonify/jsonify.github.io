@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ClickIt Updates</title>
+        <link>https://github.com/jsonify/clickit</link>
+        <description>Software updates for ClickIt</description>
+        <language>en</language>
+        <lastBuildDate>Sun, 20 Jul 2025 19:40:00 GMT</lastBuildDate>
+        
+        <!-- Future releases will be automatically added here -->
+        <!-- 
+        <item>
+            <title><![CDATA[ClickIt 1.0.1]]></title>
+            <description><![CDATA[
+                <h3>What's New in ClickIt 1.0.1</h3>
+                <ul>
+                    <li>Fixed update checker initialization</li>
+                    <li>Improved error handling</li>
+                    <li>Enhanced UI responsiveness</li>
+                </ul>
+            ]]></description>
+            <link>https://github.com/jsonify/clickit/releases/tag/v1.0.1</link>
+            <sparkle:version>1.0.1</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:version>
+            <sparkle:minimumSystemVersion>macOS 15.0</sparkle:minimumSystemVersion>
+            <pubDate>Sun, 20 Jul 2025 19:40:00 GMT</pubDate>
+            <enclosure url="https://github.com/jsonify/clickit/releases/download/v1.0.1/ClickIt.zip" 
+                       length="2048000" 
+                       type="application/octet-stream" 
+                       sparkle:version="1.0.1" 
+                       sparkle:shortVersionString="1.0.1" />
+        </item>
+        -->
+        
+    </channel>
+</rss>
